@@ -1,0 +1,9 @@
+C:\Users\Hitori\AppData\Local\Temporary Projects\Bank Machine\bin\Debug\Bank Machine.exe.config
+C:\Users\Hitori\AppData\Local\Temporary Projects\Bank Machine\bin\Debug\Bank Machine.exe
+C:\Users\Hitori\AppData\Local\Temporary Projects\Bank Machine\bin\Debug\Bank Machine.pdb
+C:\Users\Hitori\AppData\Local\Temporary Projects\Bank Machine\obj\Debug\Bank Machine.csprojResolveAssemblyReference.cache
+C:\Users\Hitori\AppData\Local\Temporary Projects\Bank Machine\obj\Debug\Bank Machine.exe
+C:\Users\Hitori\AppData\Local\Temporary Projects\Bank Machine\obj\Debug\Bank Machine.pdb
+C:\Users\Hitori\Documents\Visual Studio 2015\Projects\Bank Machine\Bank Machine\bin\Debug\Bank Machine.exe.config
+C:\Users\Hitori\Documents\Visual Studio 2015\Projects\Bank Machine\Bank Machine\obj\Debug\Bank Machine.exe
+C:\Users\Hitori\Documents\Visual Studio 2015\Projects\Bank Machine\Bank Machine\obj\Debug\Bank Machine.pdb
